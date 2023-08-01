@@ -22,6 +22,7 @@ public class RealConnection implements Connection {
         login = null;
         password = null;
         isClosed = true;
+
     }
 
     @Override
